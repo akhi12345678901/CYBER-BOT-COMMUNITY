@@ -20,7 +20,8 @@
 	"Websocket_Extension": {
 		"Status": false,
 		"ResetData": false,
-		"AppState_Path": "appstate.json"
+		"AdminBot": "
+		61576656577931"
 	},
 	"HTML": {
 		"HTML": true,
